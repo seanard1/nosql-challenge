@@ -23,6 +23,8 @@ There are 41 establishments with a Hygiene score of 20.
 
 There are 33 establishments with a rating of at least four in London.
 
+** Please note this result is different than rubric, but I contacted AskBCS team and was told the rubric is wrong and that 33 is the correct answer. **
+
 3. What are the top 5 establishments with a RatingValue rating value of 5, sorted by lowest hygiene score, nearest to the new restaurant added, "Penang Flavours"?
 
 Volunteer, Plumstead Manor Nursery, Atlantic Fish Bar, Iceland, Howe and Co Fish and Chips - Van 17.
